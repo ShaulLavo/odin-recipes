@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(255, 246, 235) ;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 45px;
+}
+ol{
+    list-style-position: inside;
+}
+a{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(93, 190, 255);}
+ .center{
+     margin-left: 33%;
+ }   
